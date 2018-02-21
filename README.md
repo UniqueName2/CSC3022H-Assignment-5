@@ -1,11 +1,12 @@
 **CSC3022H-Assignment-5
-C++ Simple Audio Manipulation Program (samp)
+
+**C++ Simple Audio Manipulation Program (samp)
 
 Author : Sahil Patel
 
 Student Number : PTLSAH004
 
-Date : 22-May-2017
+Date : 05-June-2017
 
 ***Usage: Please have the neccessary files in the same directory when running.
 
