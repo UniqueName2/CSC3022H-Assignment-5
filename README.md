@@ -1,4 +1,15 @@
 **CSC3022H-Assignment-5
+C++ Simple Audio Manipulation Program (samp)
+
+Author : Sahil Patel
+
+Student Number : PTLSAH004
+
+Date : 22-May-2017
+
+***Usage: Please have the neccessary files in the same directory when running.
+
+*'$' refers to the command line
 
 To compile - 
 	$make
@@ -46,3 +57,7 @@ To Run -
 
 To test -
 	$make tests
+	
+Please refer to the document Tutorial_5.pdf for more details regarding this assignment.
+
+Please feel free to contact me at sahil.j.patel@gmail.com should you require any further clarification. Thank you.
